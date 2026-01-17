@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+qrcode
+PyJWT
+pandas
+openpyxl
+PyPDF2
+Pillow
